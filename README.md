@@ -2,6 +2,10 @@
 
 主题：每周红宝石轨道
 
-项目来源：[链接](https://guides.rubyonrails.cn/routing.html)
+### week1
 
-### commit 6
+学习 Ruby 的基础语法
+
+### week2
+
+学习 Ruby on Raiis
