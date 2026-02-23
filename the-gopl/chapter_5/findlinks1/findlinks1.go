@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"chapter_5/html"
+	"golang.org/x/net/html"
 )
 
 func main() {
